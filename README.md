@@ -14,9 +14,9 @@ It includes Python used for data exploration, cleaning, feature engineering, and
 
 2. Navigate to the project directory and install the requirements
 
-3. Ensure the cleaned dataset is available in the data (```"Cd NEW_ENV", "cd Scripts_And_Data", "Python Data_P.py"```) in terminal 
+3. Ensure the cleaned dataset is available in the data (```"Cd NEW_ENV", "cd Scripts_And_Data" to enter in working environment, and "Python Data_P.py"```to process the cleaned data) in terminal 
 
-4. Run the Streamlit application by executing streamlit run app/app.py from the project root directory (```"Streamlit run Dashboard.py"```) in terminal.
+4. Run the Streamlit application by executing streamlit run app/app.py from the project root directory (```"Streamlit run Dashboard.py"```) in terminal to run the app.
 
 5. Open the provided local URL in your web browser to interact with the dashboard and explore the complaint analytics.
 
