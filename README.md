@@ -12,11 +12,11 @@ The data processing scripts are located in the notebooks/ folder for exploratory
 
 1. Clone the GitHub repository to your local machine using git clone <repository_link>.
 
-2. Navigate to the project directory and install the required dependencies using pip install -r requirements.txt.
+2. Navigate to the project directory and install the requirements
 
-3. Ensure the cleaned dataset is available in the data/ folder.
+3. Ensure the cleaned dataset is available in the data (```"Cd NEW_ENV", "cd Scripts_And_Data", "Python Data_P.py"```)
 
-4. Run the Streamlit application by executing streamlit run app/app.py from the project root directory.
+4. Run the Streamlit application by executing streamlit run app/app.py from the project root directory (```"Streamlit run Dashboard.py"```).
 
 5. Open the provided local URL in your web browser to interact with the dashboard and explore the complaint analytics.
 
