@@ -5,7 +5,7 @@ This project analyzes customer complaint data at the Water and Sanitation Corpor
 
 # Description of the repository structure
 
-The repository is organized to reflect the complete analytical workflow of the project, from data preparation to dashboard deployment.  All materials are in the same folder where ```Data_P.py``` for data processor, ```Dashboard.py``` for streamlit app to display outputs on dashboard. Raw ```(WASAC_COMPLAINT_DATA.CSV)``` and cleaned customer complaint```(Processes_data.csv) ```datasets used in the analysis, serving as the foundation for all subsequent steps.
+The repository is organized to reflect the complete analytical workflow of the project, from data preparation to dashboard deployment.  All materials are in the same folder where ```Data_P.py``` for data processor, ```Dashboard.py``` for streamlit app to display outputs on dashboard. Raw ```(WASAC_COMPLAINT_DATA.CSV)``` and cleaned customer complaint```(Processed_data.csv) ```datasets used in the analysis, serving as the foundation for all subsequent steps.
 It includes Python used for data exploration, cleaning, feature engineering, and computation of summary statistics and contains reusable Python scripts that handle data processing functions and KPI calculations to ensure consistency across the project as specified on the first line. The app hosts the Streamlit application code responsible for building the interactive dashboard and visualizations. The assets stores screenshots or figures used for documentation and demonstration purposes. Finally, the README.md file provides an overview of the project, explains how the repository is structured, and gives instructions on how to run the analysis and dashboard.
 
 # How to Run the Project (Local Setup)
