@@ -20,6 +20,6 @@ It includes Python used for data exploration, cleaning, feature engineering, and
 
 5. Open the provided local URL in your web browser to interact with the dashboard and explore the complaint analytics.
 
-# AUTHOR: IRADUKUNDA Elisa
-          Data Analyst, WASAC Utility
+# AUTHOR: IRADUKUNDA Elisa 
+Data Analyst, WASAC Utility
           
